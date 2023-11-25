@@ -2,6 +2,8 @@
 
 > I am a DevOps/MLOps engineer proficient with Linux, Kubernetes, Docker and Terraform
 
+[**clayrisser.com**](clayrisser.com)
+
 <!--
 **clayrisser/clayrisser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,6 +38,6 @@ Here are some ideas to get you started:
 
 ### Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=clayrisser&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=clayrisser&theme=dark&background=000000)](https://clayrisser.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clayrisser&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clayrisser&layout=compact&theme=vision-friendly-dark)](https://clayrisser.com)
