@@ -1,4 +1,6 @@
-### Hi there 👋
+### Howdy! 👋🤠
+
+> I am a DevOps/MLOps engineer proficient with Linux, Kubernetes, Docker and Terraform
 
 <!--
 **clayrisser/clayrisser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Professional Skills
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
@@ -31,6 +34,8 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
 </p>
+
+### Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=clayrisser&theme=dark&background=000000)](https://git.io/streak-stats)
 
