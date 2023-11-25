@@ -1,8 +1,6 @@
-### Howdy! 👋🤠
+## Howdy! 👋🤠
 
 > I am a DevOps/MLOps engineer proficient with Linux, Kubernetes, Docker and Terraform
-
-[**clayrisser.com**](clayrisser.com)
 
 <!--
 **clayrisser/clayrisser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Professional Skills
+## Professional Skills
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
@@ -36,8 +34,13 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </p>
 
-### Stats
+## Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=clayrisser&theme=dark&background=000000)](https://clayrisser.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clayrisser&layout=compact&theme=vision-friendly-dark)](https://clayrisser.com)
+
+## Links
+
+- [**clayrisser.com**](https://clayrisser.com)
+- [**gitlab.com/clayrisser**](https://gitlab.com/clayrisser)
